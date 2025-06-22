@@ -21,7 +21,7 @@ To perform data quality assessment and identify issues in the dataset such as:
 - Dataset uploaded in CSV format  
 
 ---
-
+![Visitor Count](https://profile-counter.glitch.me/BandiYamuna-tata-task1-eda-report/count.svg)
 ## 💬 Prompt Used in GNI
 
 
